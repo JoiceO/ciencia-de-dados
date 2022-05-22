@@ -1,4 +1,5 @@
 <h3> 👩‍🔬🎲 Projetos, aulas e exercícios do bacharelado em Ciência de Dados </h3>
+<h5>(clique nos links em azul para ser redirecionada(o) aos repositórios ou pastas) </h5> <br>
 
 ➡️ [Projeto Integrador em Computação I](https://github.com/PJI01-Aricanduva-01/ari01-campaigncalculator) - 4º semestre:<br>
 Conteúdo<br>
