@@ -2,6 +2,7 @@
 <h5>(clique nos links em azul para ser redirecionada(o) aos repositórios ou pastas) </h5> <br>
 
 ➡️ [Projeto Integrador em Computação I e II](https://github.com/PJI01-Aricanduva-01/ari01-campaigncalculator) - 4º e 5º semestres:<br>
+Linguagens: CSS, HTML, JavaScript e Python<br>
 Conteúdo<br>
 .  Plataforma web de planejamento estratégico para campanhas de marketing digital. Chamada de “Calculadora de Campanhas”, focou no orçamento e duração disponíveis entre as várias estratégias possíveis (engajamento do cliente, valoração da marca, estímulo para aquisição de produtos, etc).<br>
 
