@@ -1,6 +1,11 @@
 <h3> 👩‍🔬🎲 Projetos, aulas e exercícios do bacharelado em Ciência de Dados </h3>
 <h5>(clique nos links em azul para ser redirecionada(o) aos repositórios ou pastas) </h5> <br>
 
+➡️ [Visualização Computacional](https://github.com/JoiceO/ciencia-de-dados/tree/master/Visualiza%C3%A7%C3%A3o%20Computacional) - 6º semestre:<br>
+Ferramenta: Power BI<br>
+Conteúdo<br>
+. Exercícios com gráficos de dispersão, treemap, barras
+
 ➡️ [Projeto Integrador em Computação I e II](https://github.com/PJI01-Aricanduva-01/ari01-campaigncalculator) - 4º e 5º semestres:<br>
 Linguagens: CSS, HTML, JavaScript e Python<br>
 Conteúdo<br>
