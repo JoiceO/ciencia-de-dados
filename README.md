@@ -3,8 +3,8 @@
 
 ➡️ [Projeto Integrador em Computação IV](https://github.com/PJI01-Aricanduva-01/cantareira) - 7º semestre:<br>
 Linguagens: R e uso de PowerBI<br>
-Conteúdo<br>
-.  Sistema de Monitoramento e Predição dos Volumes Acumulados no Manancial Cantareira<br>
+<!--Conteúdo<br>
+.  Sistema de Monitoramento e Predição dos Volumes Acumulados no Manancial Cantareira<br>-->
 
 ➡️ [Aprendizado de Máquinas - Machine Learning](https://github.com/JoiceO/ciencia-de-dados/tree/master/Aprendizado%20de%20M%C3%A1quinas) - 6º semestre:<br>
 Linguagem: Python<br>
@@ -18,8 +18,8 @@ Conteúdo<br>
 
 ➡️ [Projeto Integrador em Computação I, II e III](https://github.com/PJI01-Aricanduva-01/ari01-campaigncalculator) - 4º ao 6º semestres:<br>
 Linguagens: CSS, HTML, JavaScript e Python<br>
-Conteúdo<br>
-.  Plataforma web de planejamento estratégico para campanhas de marketing digital. Chamada de “Calculadora de Campanhas”, focou no orçamento e duração disponíveis entre as várias estratégias possíveis (engajamento do cliente, valoração da marca, estímulo para aquisição de produtos, etc).<br>
+<!--Conteúdo<br>
+.  Plataforma web de planejamento estratégico para campanhas de marketing digital. Chamada de “Calculadora de Campanhas”, focou no orçamento e duração disponíveis entre as várias estratégias possíveis (engajamento do cliente, valoração da marca, estímulo para aquisição de produtos, etc).<br>-->
 
 ➡️ [Introdução à Ciência de Dados](https://github.com/JoiceO/Introducao-Ciencia-Dados) - 4º semestre:<br>
 Linguagem: Python<br>
