@@ -1,5 +1,8 @@
-<h3> 👩‍🔬🎲 Projetos, aulas e exercícios do bacharelado em Ciência de Dados </h3>
+<h3> 👩‍🔬🎲 Projetos, aulas e exercícios relacionados ao bacharelado em Ciência de Dados </h3>
 <h5>(clique nos links em azul para ser redirecionada(o) aos repositórios ou pastas) </h5> <br>
+
+➡️ [Desafio GOV. São Paulo - Hackaton Campus Party 15](https://github.com/Marlomss/SP-RECICLA)<br>
+.  Projeto em grupo: SP Recicla<br>
 
 ➡️ [Projeto Integrador em Computação IV](https://github.com/PJI01-Aricanduva-01/cantareira) - 7º semestre:<br>
 Linguagens: R e uso de PowerBI<br>
