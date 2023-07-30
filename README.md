@@ -2,7 +2,7 @@
 <h5>(clique nos links em azul para ser redirecionada(o) aos repositórios ou pastas) </h5> <br>
 
 ➡️ [Desafio GOV. São Paulo - Hackaton Campus Party 15](https://github.com/Marlomss/SP-RECICLA)<br>
-.  Projeto em grupo: SP Recicla<br>
+.  Projeto em grupo: SP Recicla. Premiado em 2º lugar!<br>
 
 ➡️ [Projeto Integrador em Computação IV](https://github.com/PJI01-Aricanduva-01/cantareira) - 7º semestre:<br>
 Linguagens: R e uso de PowerBI<br>
