@@ -1,6 +1,10 @@
 <h3> 👩‍🔬🎲 Projetos, aulas e exercícios relacionados ao bacharelado em Ciência de Dados </h3>
 <h5>(clique nos links em azul para ser redirecionada(o) aos repositórios ou pastas) </h5> <br>
 
+➡️ [PLN - Processamento de Linguagem Natural](https://github.com/JoiceO/ciencia-de-dados/tree/master/PLN) - 8º semestre:<br>
+Linguagem: Python<br>
+Bibliotecas: NLTK
+
 ➡️ [Desafio GOV. São Paulo - Hackaton Campus Party 15](https://github.com/Marlomss/SP-RECICLA)<br>
 .  Projeto em grupo: SP Recicla. Premiado em 2º lugar!<br>
 
