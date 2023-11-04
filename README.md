@@ -1,12 +1,19 @@
 <h3> 👩‍🔬🎲 Projetos, aulas e exercícios relacionados ao bacharelado em Ciência de Dados </h3>
 <h5>(clique nos links em azul para ser redirecionada(o) aos repositórios ou pastas) </h5> <br>
 
+➡️ [TCC](https://github.com/OLIVEIRA-3/artigo2023) - 8º semestre:<br>
+Linguagens: R e Python<br>
+
+➡️ [Hackaton das Manas, 3ª edição - 2023](https://github.com/JoiceO/skillsisters)<br>
+. Projeto SkillSisters
+
 ➡️ [PLN - Processamento de Linguagem Natural](https://github.com/JoiceO/ciencia-de-dados/tree/master/PLN) - 8º semestre:<br>
 Linguagem: Python<br>
-Bibliotecas: NLTK
+Conteúdo<br>
+. Exercícios sobre corpus e similaridade textual; tokens, stopwords, n-grams, vectors; word embeddings, transformers, BERT; tensorflow, keras, fine tuning; similaridade semântica; torch, análise de sentimentos; bag of words, CountVectorizer, TfidfVectorizer e graphviz<br>
 
 ➡️ [Desafio GOV. São Paulo - Hackaton Campus Party 15](https://github.com/Marlomss/SP-RECICLA)<br>
-.  Projeto em grupo: SP Recicla. Premiado em 2º lugar!<br>
+.  Projeto SP Recicla. Premiado em 2º lugar!<br>
 
 ➡️ [Projeto Integrador em Computação IV](https://github.com/PJI01-Aricanduva-01/cantareira) - 7º semestre:<br>
 Linguagens: R e uso de PowerBI<br>
