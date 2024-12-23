@@ -1,6 +1,9 @@
 <h3> 👩‍🔬🎲 Projetos, aulas e exercícios relacionados à Ciência de Dados </h3>
 <h5>(clique nos links em azul para ser redirecionada(o) aos repositórios ou pastas) </h5> <br>
 
+➡️ [SQL com R para Ciência de Dados](https://github.com/JoiceO/sql-and-r)<br>
+. Projeto final do curso com dados reais de produção agrícola e câmbio.
+
 ➡️ [TCC](https://github.com/OLIVEIRA-3/artigo2023) - 8º semestre de Ciência de Dados (2023):<br>
 Linguagens: R e Python<br>
 
